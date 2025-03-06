@@ -1,7 +1,7 @@
 env
 *__pycache__
-requirements.txt
 *read
 Cronograma*
 datalab/notebooks/*.ipynb
 data/raw/*
+root.py
