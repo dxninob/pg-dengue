@@ -1,0 +1,12 @@
+pandas
+numpy
+requests
+openpyxl
+matplotlib
+seaborn
+scipy
+statsmodels
+arch
+ruptures
+dash
+plotly
